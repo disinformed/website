@@ -1,0 +1,32 @@
+Brutalist Framework Changelog
+Version: 2.2
+
+General:
++
+
+BELL:
++ 
+
+Flavors:
++ 
+
+BFX:
++ 
+
+BUIX:
++ 
+
+BUTCH:
++ 
+
+Grid:
++
+
+bIcons:
++ Overhaul of icons library!
+
+Rebar:
++ 
+
+Boilerplates:
++ 
