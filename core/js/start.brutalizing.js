@@ -92,3 +92,4 @@ var bl = baffle('.baffle-longer', { characters: '█▓▒░', speed: 150, dura
 var bp = baffle('.baffle-prolonged', { characters:'█▓▒░', speed: 300, duration: 10000 }).reveal(10000); /* Animation duration set to 10 seconds */
 var bf = baffle('.baffle-forever', {characters: '█▓▒░', speed: 150}).start(); /* Animation continues on an endless loop */
 });
+
